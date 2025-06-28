@@ -28,6 +28,8 @@
 | React Icons   | Firebase Auth  | Lucide, PostCSS           |
 
 ---
+## Demo
+▶️ [Watch on Google Drive][(https://drive.google.com/file/d/1221IL3q4wRMAzVMdwcWSn5q7NfjtTLDR/view?usp=drive_link)]
 
 ## 📦 Setup & Installation
 
