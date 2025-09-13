@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 ![Tech](https://img.shields.io/badge/built%20with-React%20%7C%20Tailwind%20%7C%20Firebase-blue)
 
-**InvestNest** is a modern startup investment platform designed to connect users with promising startups. It offers a seamless browsing experience, intuitive UI, and dynamic functionality for users looking to explore and invest in early-stage companies.
+**InvestNest** is a modern startup investment platform designed to connect Investors with promising startups. It offers a seamless browsing experience, intuitive UI, and dynamic functionality for users looking to explore and invest in early-stage companies.
 
 ---
 
@@ -65,4 +65,5 @@ For queries, feedback, or suggestions:
 
 ## 📝 License
 This project is licensed under the MIT License.
+
 
